@@ -1,0 +1,11 @@
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.exe.config
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.exe
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.pdb
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\bin\Debug\Lab_2_Semester_Average.xml
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.vbprojResolveAssemblyReference.cache
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.frmMain.resources
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.Resources.resources
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.vbproj.GenerateResource.Cache
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.exe
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.xml
+c:\users\joshu\documents\visual studio 2015\Projects\Lab_2_Semester_Average\Lab_2_Semester_Average\obj\Debug\Lab_2_Semester_Average.pdb
